@@ -1,5 +1,8 @@
 Skin‑Lesion‑AI 🔬🖼️
 
+
+!!!Please use the `.ipynb` file to review the code so that the graphs will be visible.!!!
+
 Finetuning a Deep‑Learning Model for Early Skin‑Cancer Detection & Serving It with Gradio
 
 
